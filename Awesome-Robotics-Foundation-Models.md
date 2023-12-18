@@ -63,9 +63,10 @@ If you find this repository helpful, please consider citing:
 * Play-LMP: Learning Latent Plans from Play [[Project]](https://learning-from-play.github.io/)
 * Multi-Context Imitation: Language-Conditioned Imitation Learning over Unstructured Data [[Project]](https://language-play.github.io)
 #### Language-Assisted Reinforcement Learning
-* Towards A Unified Agent with Foundation Models [[Paper]](https://arxiv.org/abs/2307.09668)
+* (V) Towards A Unified Agent with Foundation Models [[Paper]](https://arxiv.org/abs/2307.09668)
   - ICLR 2023 Workshop (Reincarnating Reinforcement Learning Workshop at ICLR 2023)
-  - ICL & DM 
+  - Imperial College London & Deep Mind (Martin Riedmiller group)
+  - My summary in [here](mds/Towards%20A%20Unified%20Agent%20with%20Foundation%20Models.md)
 * Reward Design with Language Models [[Paper]](https://arxiv.org/abs/2303.00001)
 * Learning to generate better than your llm [[Paper]](https://arxiv.org/pdf/2306.11816.pdf)[[Code]](https://github.com/Cornell-RL/tril)
 * Guiding Pretraining in Reinforcement Learning with Large Language Models [[Paper]](https://arxiv.org/abs/2302.06692)[[Code]](https://github.com/yuqingd/ellm)
